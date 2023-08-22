@@ -1,0 +1,3 @@
+Project Description:-
+
+The Railway Reservation System project is developed using React.js for the front end, Spring Boot for the backend, and MySQL and Hibernate for the database. It offers a user-friendly interface for booking train tickets, selecting seats, managing bookings, and making secure online payments. The system efficiently handles ticket availability, updates real-time train schedules, and provides a seamless reservation experience for passengers.
